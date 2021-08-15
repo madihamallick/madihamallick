@@ -5,10 +5,11 @@
   <p align="center">
   <img src="https://user-images.githubusercontent.com/70858557/108669240-a0050500-7502-11eb-8625-a669c543febb.gif" height="380px" width="300px">
 
- 
-
-  [![Madiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=madihamallick&show_icons=true&theme=radical?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=madihamallick" />
+ <p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=madihamallick&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=madihamallick&theme=dark" />
+</p>
  
   
  ![](https://komarev.com/ghpvc/?username=madihamallick&color=green)
