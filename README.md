@@ -1,10 +1,5 @@
 # Hi, 👋 I'm Madiha
 
- I'm a Computer Science undergraduate studing at **Calcutta Institute Of Engineering and Management** 🏟
- 
-  
- ![](https://komarev.com/ghpvc/?username=madihamallick&color=green)
- 
  🙋‍♀️ Hello, **Madiha** this side 😉
 
 👩‍🎓 Soon will be Graduating with Bachelors in **Computer Science and Engineering**  (2023)
