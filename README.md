@@ -5,11 +5,11 @@
   
  ![](https://komarev.com/ghpvc/?username=madihamallick&color=green)
  
- 🙋‍♀️ Hello, **Madiha** here
+ 🙋‍♀️ Hello, **Madiha** this side 😉
 
 👩‍🎓 Soon will be Graduating with Bachelors in **Computer Science and Engineering**  (2023)
 
-💻 I'm enthusiastic about: Web development, App development , Cloud Architecture, and literally everything new 
+💻 I'm enthusiastic about: Web development, App development , Cloud Architecture, and open source contribution
 
 📚 Languages : Python, JavaScript, HTML, CSS, C
 
