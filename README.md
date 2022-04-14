@@ -2,7 +2,7 @@
   
 👩‍🎓 Soon will be Graduating with Bachelors in Computer Science and Engineering (2023)
 
-💻 I'm a Full stack developer curring working tech stacks - React, NextJs, NodeJs, MongoDB
+💻 Full stack developer curring working tech stacks - React, NextJs, NodeJs, MongoDB
 
 🔍 Areas of interest: web development, App development and Machine Learning
 
