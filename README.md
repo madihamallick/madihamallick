@@ -2,9 +2,9 @@
   
 👩‍🎓 Soon will be Graduating with Bachelors in Computer Science and Engineering (2023)
 
-💻 I'm enthusiastic about: App development , ML and Cloud Architecture
+💻 I'm a Full stack developer curring working tech stacks - React, NextJs, NodeJs, MongoDB
 
-🔍 Areas of interest: web development, open source contribution
+🔍 Areas of interest: web development, App development and Machine Learning
 
 📚 Languages : Python, JavaScript, HTML, CSS, C, JAVA
 
