@@ -1,4 +1,4 @@
-<h1 align=center>Hello, 👋 I'm Madiha </h1>
+<h1 align=center>Heya, 👋 I'm Madiha </h1>
   
 👩‍🎓 Soon will be Graduating with Bachelors in Computer Science and Engineering (2023)
 
